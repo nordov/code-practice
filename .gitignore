@@ -1,2 +1,5 @@
-/recursion/node_modules
-/memoization/node_modules
+*/node_modules
+#/recursion/node_modules
+#/memoization/node_modules
+#/tabulation/node_modules
+#/graph_project/node_modules
